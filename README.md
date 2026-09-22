@@ -6,6 +6,8 @@ O **DIO Agent** é um agente de IA que acompanha você na sua jornada de estudos
 
 E você não precisa instalar nada complicado. Em **3 passos simples**, o seu mentor de IA estará pronto para usar.
 
+Para acompanhar, temos esse vídeo do professor Valdir explicando o passo a passo de como utilizar [Video aula](https://www.youtube.com/live/voc-S49PjUI?si=ArtDdbDfjHAkg-ys)
+
 ---
 
 ## ✨ Antes de começar: dois conceitos rápidos
